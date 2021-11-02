@@ -1,0 +1,59 @@
+body{
+    background-color: #393E46;
+    font-family: cursive;
+    text-align: center;
+    margin: 0%;
+}
+
+.heading{
+    color: #4ECCA3;
+    font-size: 8rem;
+    text-shadow: 5px 0 #232931;
+    margin: 0%;
+}
+
+.game{
+    font-size: 2rem;
+    color: #4ECCA3;
+    text-shadow: 5px 0 #232931;
+}
+
+.row{
+    display: inline-block;
+    width:60%;
+}
+.container1{
+    
+    float: left;
+    
+    
+}
+
+.container2{
+    float: right;
+    
+}
+
+.number1{
+    color: sandybrown;
+    font-size: 1.8rem;
+    text-shadow: 3px 0 #232931;
+}
+
+.number2{
+    color: sandybrown;
+    font-size: 1.8rem;
+    text-shadow: 3px 0 #232931;
+}
+
+.section{
+    width:80%;
+    text-align: center;
+    margin: auto;
+}
+
+
+
+.foot{
+    color: white;
+}
